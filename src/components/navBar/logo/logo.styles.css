@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.app-logo{
+    font-size:24px;
+    font-family: "Grand Hotel", "Roboto", "Helvetica Nue";
+    margin-right: 20px;
+}
+
+.logo-text{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
